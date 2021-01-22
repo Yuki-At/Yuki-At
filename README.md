@@ -9,9 +9,3 @@
 ![](https://img.shields.io/badge/-C-333?logo=C)
 ![](https://img.shields.io/badge/-C++-333?logo="C++")
 ![](https://img.shields.io/badge/-Java-333?logo=Java)
-
-### This year's goal
-
-![](https://img.shields.io/badge/-Vulkan-333?logo=Vulkan)
-![](https://img.shields.io/badge/-Minecraft-333?logo=Minecraft)
-![](https://img.shields.io/badge/-Docker-333?logo=Docker)
